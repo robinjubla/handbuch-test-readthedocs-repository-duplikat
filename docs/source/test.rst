@@ -28,4 +28,7 @@ how to :ref:`installation` the project.
 * ``Bulletpoint 4`` buttonkomisch
 #. Bulletpoint Nummeriert 1
    #. Bulletpoint-Inline Nummeriert 1.1
-#. Bulletpoint Nummeriert 2
+#. `Bulletpoint Nummeriert 2 <https://db.jubla.ch/groups/1.html>`_ weitertext
+
+Normaler Text mit Icon Datenbank :fa:`database`
+Normaler Text mit :guilabel:`Guilabel`
