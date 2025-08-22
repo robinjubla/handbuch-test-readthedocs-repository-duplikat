@@ -44,7 +44,7 @@ Normaler Text mit :guilabel:`Guilabel`
 
 Nachfolgend ein Screenshot als Upload eines ersten Bildes
 
-.. figure:: /docs/source/screenshots/logo.jpg
+.. figure:: /screenshots/logo.jpg
 
     :name: 
     
