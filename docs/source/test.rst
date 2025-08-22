@@ -22,10 +22,10 @@ how to :ref:`installation` the project.
    Das ist eine Test-Warnung.
 
 * Bulletpoint 1 normal
-   *Bulletpoint-Inline 1.1
+   * Bulletpoint-Inline 1.1
 * **Bulletpoint 2** fett
 * *Bulletpoint 3* schräg
 * ``Bulletpoint 4`` buttonkomisch
-*. Bulletpoint Nummeriert 1
-   *. Bulletpoint-Inline Nummeriert 1.1
-*. Bulletpoint Nummeriert 2
+#. Bulletpoint Nummeriert 1
+   #. Bulletpoint-Inline Nummeriert 1.1
+#. Bulletpoint Nummeriert 2
