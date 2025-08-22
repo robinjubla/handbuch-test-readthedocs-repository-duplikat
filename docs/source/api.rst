@@ -1,6 +1,4 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
-
+Hier kommt später die API-Doku hin.
