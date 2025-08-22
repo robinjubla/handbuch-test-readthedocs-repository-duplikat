@@ -22,9 +22,14 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Inhaltsverzeichnis
+   :caption: Erste zwei Navigationspunkte
 
    usage
    api
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Dritter Navigationspunkt
+
    test
    
