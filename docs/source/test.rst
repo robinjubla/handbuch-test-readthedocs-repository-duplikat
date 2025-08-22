@@ -1,4 +1,4 @@
-Welcome to Test Site Navigation documentation!
+Test Site Navigation RC
 =======================================
 
 **Jubla** is a Python library for Kinder und Jugendliche
@@ -16,13 +16,3 @@ how to :ref:`installation` the project.
 .. important::
 
    This project is under active development test important.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
-   test
-   
