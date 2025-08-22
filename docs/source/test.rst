@@ -46,8 +46,11 @@ Nachfolgend ein Screenshot als Upload eines ersten Bildes
 
 .. figure:: /screenshots/logo.jpg
    :alt: Jubla-Logo
-   :width: 100px
+   :width: 200px
 
     :name: 
     
     Jubla-Logo-figure
+
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea ![Jubla-logo](screenshots/logo.jpg) takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
