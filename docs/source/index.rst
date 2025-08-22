@@ -17,10 +17,12 @@ how to :ref:`installation` the project.
 
    This project is under active development test important.
 
-Contents
+Inhalt
 --------
 
 .. toctree::
+   :maxdepth: 3
+   :caption: Inhaltsverzeichnis
 
    usage
    api
