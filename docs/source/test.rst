@@ -44,7 +44,7 @@ Normaler Text mit :guilabel:`Guilabel`
 
 Nachfolgend ein Screenshot als Upload eines ersten Bildes
 
-.. figure:: /uploads/Jubla-Logo_blau_QUADRATISCH.jpg
+.. figure:: /docs/source/screenshots/logo.jpg
 
     :name: 
     
