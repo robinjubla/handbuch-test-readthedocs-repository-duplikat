@@ -1,5 +1,5 @@
 Welcome to Robins Test documentation!
-===================================
+=======================================
 
 **Jubla** (/lu'make/) is a Python library for Kinder und Jugendliche
 that creates recipes mixing random ingredients.
