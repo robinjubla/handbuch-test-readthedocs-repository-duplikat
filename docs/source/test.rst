@@ -1,4 +1,4 @@
-Welcome to Lucas Test documentation!
+Welcome to Test Site Navigation documentation!
 =======================================
 
 **Jubla** is a Python library for Kinder und Jugendliche
