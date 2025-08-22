@@ -45,6 +45,8 @@ Normaler Text mit :guilabel:`Guilabel`
 Nachfolgend ein Screenshot als Upload eines ersten Bildes
 
 .. figure:: /screenshots/logo.jpg
+   :alt: Jubla-Logo
+   :width: 100px
 
     :name: 
     
