@@ -43,6 +43,7 @@ Normaler Text mit Icon Datenbank :fa:`database`
 Normaler Text mit :guilabel:`Guilabel`
 
 Nachfolgend ein Screenshot als Upload eines ersten Bildes
+
 .. figure:: /uploads/Jubla-Logo_blau_QUADRATISCH.jpg
 
     :name: 
