@@ -41,3 +41,10 @@ how to :ref:`installation` the project.
 
 Normaler Text mit Icon Datenbank :fa:`database`
 Normaler Text mit :guilabel:`Guilabel`
+
+Nachfolgend ein Screenshot als Upload eines ersten Bildes
+.. figure:: /uploads/Jubla-Logo_blau_QUADRATISCH.jpg
+
+    :name: 
+    
+    Jubla-Logo-figure
